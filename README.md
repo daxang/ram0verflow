@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3202"><img src="assets/ledger-light.svg?v=3202" width="100%" alt="ROFL ledger, height 3202"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3203"><img src="assets/ledger-light.svg?v=3203" width="100%" alt="ROFL ledger, height 3203"></picture>
 
 | | |
 |---|---|
-| **height** | `3202` |
-| **tip** | `00095fcf53ee93020886ccea9a4662095c96800ed84dbd96fe6b628e11773c89` |
+| **height** | `3203` |
+| **tip** | `a61d78c1c5e39bed133e7e656af2f100cd99e91791fae5d06207a51cfe88dbe3` |
 | **difficulty** | `30.9`  (bits `0x1e00848a`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,518,463,628,798` expected hashes |
-| **supply** | `20999.43999731 ROFL` in `3203` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,518,496,034,092` expected hashes |
+| **supply** | `20999.44152318 ROFL` in `3204` unspent outputs |
 | **next reward** | `0.00152587 ROFL` |
-| **next retarget** | in `13` block(s) |
-| **next halving** | in `157` block(s) |
-| **transactions** | `3205` |
+| **next retarget** | in `12` block(s) |
+| **next halving** | in `156` block(s) |
+| **transactions** | `3206` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3203` | `a61d78c1c5e39bed133e…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 22:32 UTC |
 | `3202` | `00095fcf53ee93020886…` | [@ywltby](https://github.com/ywltby) | `遇到我们的时候，你才是挑战者。` | `1` | `0.00152587` | 2026-09-20 22:03 UTC |
 | `3201` | `3d2646d852a448a927d2…` | [@ywltby](https://github.com/ywltby) | `流水的天才，铁打的ZmjjKK。` | `1` | `0.00152587` | 2026-09-20 21:53 UTC |
 | `3200` | `13a3e7d678a9825624c8…` | [@hbzhong](https://github.com/hbzhong) | `把等待交给时间，把答案交给计算。` | `1` | `0.00152587` | 2026-09-20 21:52 UTC |
@@ -44,7 +45,6 @@
 | `3196` | `8692030747c149e4e62d…` | [@ram0verflow](https://github.com/ram0verflow) | `each node independently verifies and stores the entire history` | `1` | `0.00152587` | 2026-09-20 21:16 UTC |
 | `3195` | `7e05f70482aa88dc6866…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 21:03 UTC |
 | `3194` | `1737f2d01dd09f4181cf…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 20:54 UTC |
-| `3193` | `6e87523df56b9d431dcc…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 20:46 UTC |
 
 ### Miners
 
@@ -96,7 +96,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | [@hbzhong](https://github.com/hbzhong) | `rofl1q722t3c2emfk7utwz4y09xwxs0670kknthwuler` | `2.33154222 ROFL` |
 | _unclaimed_ | `rofl1qyk9qfjwgth2dfazpx9msskj3sswln76x0x9hqa` | `0.70190426 ROFL` |
 | _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.21972627 ROFL` |
-| _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.05187969 ROFL` |
+| _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.05340556 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
 | [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.01831053 ROFL` |
@@ -109,7 +109,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3202. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3203. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
