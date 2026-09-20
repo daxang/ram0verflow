@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3105"><img src="assets/ledger-light.svg?v=3105" width="100%" alt="ROFL ledger, height 3105"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3106"><img src="assets/ledger-light.svg?v=3106" width="100%" alt="ROFL ledger, height 3106"></picture>
 
 | | |
 |---|---|
-| **height** | `3105` |
-| **tip** | `1da25762dc5d61d3261f45ac4af3a3e69e4ce3701c03e41a62453607137d0b8e` |
+| **height** | `3106` |
+| **tip** | `41015b0b3f9f88032cbe1280129a210f1474731e93f7570ec383935d1cd1e1cf` |
 | **difficulty** | `48.8`  (bits `0x1d53f385`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,514,476,054,786` expected hashes |
-| **supply** | `20999.22484920 ROFL` in `3106` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,514,527,215,041` expected hashes |
+| **supply** | `20999.22790095 ROFL` in `3107` unspent outputs |
 | **next reward** | `0.00305175 ROFL` |
-| **next retarget** | in `14` block(s) |
-| **next halving** | in `44` block(s) |
-| **transactions** | `3108` |
+| **next retarget** | in `13` block(s) |
+| **next halving** | in `43` block(s) |
+| **transactions** | `3109` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3106` | `41015b0b3f9f88032cbe…` | [@ywltby](https://github.com/ywltby) | `天不生我ZmjjKK，瓦圈万古如长夜。` | `1` | `0.00305175` | 2026-09-20 04:53 UTC |
 | `3105` | `1da25762dc5d61d3261f…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00305175` | 2026-09-20 04:43 UTC |
 | `3104` | `9abb2d8200849567edd3…` | [@b81913221-ai](https://github.com/b81913221-ai) | `gm` | `1` | `0.00305175` | 2026-09-20 04:43 UTC |
 | `3103` | `d34beaddb0016e016bcf…` | [@ywltby](https://github.com/ywltby) | `T1我们明天就把你送回家。` | `1` | `0.00305175` | 2026-09-20 04:21 UTC |
@@ -44,13 +45,12 @@
 | `3099` | `ba11340d26e0ea425cf1…` | [@b81913221-ai](https://github.com/b81913221-ai) | `gm` | `1` | `0.00305175` | 2026-09-20 03:52 UTC |
 | `3098` | `5216c40aa03654764a52…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00305175` | 2026-09-20 03:31 UTC |
 | `3097` | `8b4ca2e63053d82bffff…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00305175` | 2026-09-20 03:23 UTC |
-| `3096` | `eb0656b0986e9d6fe5ae…` | [@ywltby](https://github.com/ywltby) | `面善打个D啊，喜欢我的战斗脸吗？` | `1` | `0.00305175` | 2026-09-20 03:15 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
-| [@ywltby](https://github.com/ywltby) | `1280` | `41.2%` |
+| [@ywltby](https://github.com/ywltby) | `1281` | `41.2%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `15.7%` |
 | [@americanvain](https://github.com/americanvain) | `315` | `10.1%` |
 | [@hbzhong](https://github.com/hbzhong) | `171` | `5.5%` |
@@ -71,7 +71,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 |---|---|--:|
 | [@ksanjeev284](https://github.com/ksanjeev284) | `rofl1qn2wv00sq9a875c7pmqf4hfu2ca2y7fa0le96wk` | `15112.50000000 ROFL` |
 | _unclaimed_ | `rofl1qhkhmy848s09y2jyly8jexk4gd3gnrrclxj2exx` | `2062.51831051 ROFL` |
-| [@ywltby](https://github.com/ywltby) | `rofl1qrrj2pn86jy9ylnatdwuqfazq0ur5pv7xq9lja3` | `734.65965526 ROFL` |
+| [@ywltby](https://github.com/ywltby) | `rofl1qrrj2pn86jy9ylnatdwuqfazq0ur5pv7xq9lja3` | `734.66270701 ROFL` |
 | [@eltociear](https://github.com/eltociear) | `rofl1qdsfz9v9r2hc798k26egt33zxj8ysg4cgwgcw2z` | `612.50000000 ROFL` |
 | [@uselessfree](https://github.com/uselessfree) | `rofl1qm3zqhkwlh85xsaktutuculxhcqnd8vwnj6rt3z` | `589.84375000 ROFL` |
 | [@bulanzade](https://github.com/bulanzade) | `rofl1qhu2r7ghewxnxgkruvrx94udl3nduj2a5u3w2my` | `468.75000000 ROFL` |
@@ -108,7 +108,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3105. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3106. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
