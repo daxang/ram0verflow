@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3203"><img src="assets/ledger-light.svg?v=3203" width="100%" alt="ROFL ledger, height 3203"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3204"><img src="assets/ledger-light.svg?v=3204" width="100%" alt="ROFL ledger, height 3204"></picture>
 
 | | |
 |---|---|
-| **height** | `3203` |
-| **tip** | `a61d78c1c5e39bed133e7e656af2f100cd99e91791fae5d06207a51cfe88dbe3` |
+| **height** | `3204` |
+| **tip** | `babb18041798c4a76562063f113566d989b62df79c65f30576657c6abc3a1efe` |
 | **difficulty** | `30.9`  (bits `0x1e00848a`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,518,496,034,092` expected hashes |
-| **supply** | `20999.44152318 ROFL` in `3204` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,518,528,439,386` expected hashes |
+| **supply** | `20999.44304905 ROFL` in `3205` unspent outputs |
 | **next reward** | `0.00152587 ROFL` |
-| **next retarget** | in `12` block(s) |
-| **next halving** | in `156` block(s) |
-| **transactions** | `3206` |
+| **next retarget** | in `11` block(s) |
+| **next halving** | in `155` block(s) |
+| **transactions** | `3207` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3204` | `babb18041798c4a76562…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 22:40 UTC |
 | `3203` | `a61d78c1c5e39bed133e…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 22:32 UTC |
 | `3202` | `00095fcf53ee93020886…` | [@ywltby](https://github.com/ywltby) | `遇到我们的时候，你才是挑战者。` | `1` | `0.00152587` | 2026-09-20 22:03 UTC |
 | `3201` | `3d2646d852a448a927d2…` | [@ywltby](https://github.com/ywltby) | `流水的天才，铁打的ZmjjKK。` | `1` | `0.00152587` | 2026-09-20 21:53 UTC |
@@ -44,7 +45,6 @@
 | `3197` | `d96789a58129c9b884fa…` | [@hbzhong](https://github.com/hbzhong) | `没拿到主链签字，先不算浮盈。` | `1` | `0.00152587` | 2026-09-20 21:22 UTC |
 | `3196` | `8692030747c149e4e62d…` | [@ram0verflow](https://github.com/ram0verflow) | `each node independently verifies and stores the entire history` | `1` | `0.00152587` | 2026-09-20 21:16 UTC |
 | `3195` | `7e05f70482aa88dc6866…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 21:03 UTC |
-| `3194` | `1737f2d01dd09f4181cf…` | [@sb-2b](https://github.com/sb-2b) | `gm from Intel UHD 630` | `1` | `0.00152587` | 2026-09-20 20:54 UTC |
 
 ### Miners
 
@@ -96,7 +96,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | [@hbzhong](https://github.com/hbzhong) | `rofl1q722t3c2emfk7utwz4y09xwxs0670kknthwuler` | `2.33154222 ROFL` |
 | _unclaimed_ | `rofl1qyk9qfjwgth2dfazpx9msskj3sswln76x0x9hqa` | `0.70190426 ROFL` |
 | _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.21972627 ROFL` |
-| _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.05340556 ROFL` |
+| _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.05493143 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
 | [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.01831053 ROFL` |
@@ -109,7 +109,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3203. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3204. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
